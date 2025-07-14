@@ -1,3 +1,9 @@
+Name :- Mishra Ritik Sarojkumar 
+Company Name :- CODETECH IT SOLUTIONS PVT LTD 
+Intern ID :- CT04DG3359
+Domain :- Java Programming 
+Duration :- 30 June 2025 to 30 July 2025
+
 # 💬 Java Client-Server Chat Application
 
 A simple multithreaded client-server chat application using Java Sockets. This allows multiple clients to connect to a server and chat in real-time via the command line.
